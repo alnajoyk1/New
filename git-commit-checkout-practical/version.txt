@@ -1,2 +1,2 @@
-Version 1
-This is my first version.
+Version 2
+This is my second version.
